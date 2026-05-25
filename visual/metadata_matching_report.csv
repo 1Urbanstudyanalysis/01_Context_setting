@@ -1,0 +1,11 @@
+jalan,images,resolved_metadata_sources,metadata_rows,metadata_rows_standardized,metadata_rows_with_coords,matched_with_coords,chosen_filename_col,chosen_lon_col,chosen_lat_col
+Jalan Ang Seng,6914,F:\brickfields_named_streets_mapillary_strict\jalan_ang_seng_cluster\jalan_ang_seng_cluster_metadata.csv,6914,6914,6914,6914,local_file,lon_used,lat_used
+Jalan Berhala,189,F:\brickfields_named_streets_mapillary_strict\jalan_berhala\jalan_berhala_metadata.csv,189,189,189,189,local_file,lon_used,lat_used
+Jalan Chan Ah Tong,205,F:\brickfields_named_streets_mapillary_strict\jalan_chan_ah_tong\jalan_chan_ah_tong_metadata.csv,205,205,205,205,local_file,lon_used,lat_used
+Jalan Rozario,255,F:\brickfields_named_streets_mapillary_strict\jalan_rozario\jalan_rozario_metadata.csv,255,255,255,255,local_file,lon_used,lat_used
+Jalan Scott,22,F:\brickfields_named_streets_mapillary_strict\jalan_scott\jalan_scott_metadata.csv,22,22,22,22,local_file,lon_used,lat_used
+Jalan Sultan Abdul Samad,4662,F:\brickfields_named_streets_mapillary_strict\jalan_sultan_abdul_samad\jalan_sultan_abdul_samad_metadata.csv,4662,4662,4662,4662,local_file,lon_used,lat_used
+Jalan Thambipillay,273,F:\brickfields_named_streets_mapillary_strict\jalan_thambipillay\jalan_thambipillay_metadata.csv,273,273,273,273,local_file,lon_used,lat_used
+Jalan Travers / Jalan Rakyat,1858,F:\brickfields_named_streets_mapillary_strict\jalan_travers_jalan_rakyat\jalan_travers_jalan_rakyat_metadata.csv,1858,1858,1858,1858,local_file,lon_used,lat_used
+Jalan Tun Sambanthan,7375,F:\brickfields_named_streets_mapillary_strict\jalan_tun_sambanthan\jalan_tun_sambanthan_metadata.csv,7375,7375,7375,7375,local_file,lon_used,lat_used
+Lorong Chan Ah Tong,73,F:\brickfields_named_streets_mapillary_strict\lorong_chan_ah_tong\lorong_chan_ah_tong_metadata.csv,73,73,73,73,local_file,lon_used,lat_used
